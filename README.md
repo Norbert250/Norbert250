@@ -14,7 +14,7 @@ for the Rwanda Informatics Olympiad, mentoring future problem solvers.
 Python, JavaScript, React, Node.js, TensorFlow, Flask, MongoDB.
 
 **Let’s Connect**:  
-[LinkedIn](https://linkedin.com/in/norbert-ndayisenga) |  
-[Email](mailto:norbert.ndayisenga@example.com)
+[LinkedIn](https://www.linkedin.com/in/ndayisenganorbert/) |  
+[Email](mailto:norbertndayisenga@gmail.com)
 
 Feel free to explore my repositories and collaborate on impactful projects. 🚀
